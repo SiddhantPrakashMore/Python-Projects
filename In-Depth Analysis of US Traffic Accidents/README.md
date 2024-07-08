@@ -5,21 +5,29 @@ This project involves an extensive exploratory data analysis (EDA) on a dataset 
 
 **Data Preparation and Cleaning :**
 >The dataset is loaded and cleaned to handle missing values and ensure consistency.
+
 >Initial data exploration includes inspecting the dataset structure, data types, and basic statistics.
 
 **Exploratory Data Analysis :**
 >Detailed univariate, bivariate, and multivariate analysis to uncover relationships and patterns within the data.
+
 >Visualization of key variables and their distributions using libraries like Matplotlib and Seaborn.
+
 >Analysis of accident severity, location, time, and environmental conditions to identify significant factors affecting accident rates.
+
 **Insights and Findings :**
 
 >Identification of high-risk areas and time periods for accidents.
+
 >Examination of weather conditions, road features, and other contextual factors that correlate with accident occurrences.
+
 >Recommendations for improving road safety based on the observed patterns.
 
 **Tools and Technologies Used :**
 >Pandas for data manipulation and analysis.
+
 >Matplotlib and Seaborn for data visualization.
+
 >Jupyter Notebook for an interactive and iterative analysis process.
 
 **Key Metrics :**
